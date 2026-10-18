@@ -62,8 +62,9 @@ class ProductImpl(Product):
         return self.price
 
 
+# ---------------------------------------------------------------------------
 # Server  (equivalent of Server.java)
-
+# ---------------------------------------------------------------------------
 def main():
     try:
         print("Server is booting....")
